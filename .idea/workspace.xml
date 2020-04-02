@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d5143ee-0894-488f-b889-020db0157d70" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a00Zjp0JV6W5BOaVHNIIvnsWvX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="ALS_mf" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ALS_mf" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ALS_mf" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../ALS_mf/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="ALS_mf" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="ALS_mf" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="ALS_mf" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d5143ee-0894-488f-b889-020db0157d70" name="Default Changelist" comment="" />
+      <created>1585857262418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585857262418</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="94" key="#Inspections" timestamp="1585859094403">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="320" y="94" key="#Inspections/0.23.1440.812@0.23.1440.812" timestamp="1585859094403" />
+    <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585859244504">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.812@0.23.1440.812" timestamp="1585859244504" />
+    <state width="1379" height="196" key="GridCell.Tab.0.bottom" timestamp="1585859247142">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1379" height="196" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1585859247142" />
+    <state width="1379" height="196" key="GridCell.Tab.0.center" timestamp="1585859247141">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1379" height="196" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1585859247141" />
+    <state width="1379" height="196" key="GridCell.Tab.0.left" timestamp="1585859247141">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1379" height="196" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1585859247141" />
+    <state width="1379" height="196" key="GridCell.Tab.0.right" timestamp="1585859247142">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1379" height="196" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1585859247142" />
+    <state x="221" y="68" key="SettingsEditor" timestamp="1585859145779">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="221" y="68" key="SettingsEditor/0.23.1440.812@0.23.1440.812" timestamp="1585859145779" />
+    <state x="397" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1585857275941">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="397" y="261" key="com.intellij.ide.util.TipDialog/0.23.1440.812@0.23.1440.812" timestamp="1585857275941" />
+    <state x="301" y="23" width="837" height="812" key="find.popup" timestamp="1585859059749">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="301" y="23" width="837" height="812" key="find.popup/0.23.1440.812@0.23.1440.812" timestamp="1585859059749" />
+  </component>
+</project>
